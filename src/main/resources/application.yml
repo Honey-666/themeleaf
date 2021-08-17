@@ -1,0 +1,6 @@
+spring:
+      #关闭缓存
+  thymeleaf:
+    cache: false
+server:
+  port: 10010
